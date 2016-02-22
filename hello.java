@@ -1,10 +1,12 @@
 //try to do a java program
 
-public class hello{
+public class hello {
 
-  public static void main(String[] args){
-    System.out.println("Hello World");
-  }
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("tst111");
+
+	}
   
 
 }
